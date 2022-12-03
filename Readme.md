@@ -1,6 +1,5 @@
-
-
 ## Plant Landing PageProject-6 
+[Live Link](https://plant-landing-page-project-6.netlify.app/)
 
 **Name:** Aniket Shahare
 
